@@ -1,0 +1,32 @@
+aid: one-map-singapore
+name: One Map, Singapore
+description: "Singapore Land Authority REST API services for Singapore addresses"
+url: https://www.onemap.gov.sg/docs/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Geocoding"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Geocoding
+  - Public APIs
+apis:
+  - name: One Map, Singapore
+    description: "Singapore Land Authority REST API services for Singapore addresses"
+    humanURL: https://www.onemap.gov.sg/docs/
+    baseURL: https://www.onemap.gov.sg/docs/
+    tags:
+      - Geocoding
+    properties:
+      - type: Documentation
+        url: https://www.onemap.gov.sg/docs/
+common:
+  - type: Website
+    url: https://www.onemap.gov.sg/docs/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
