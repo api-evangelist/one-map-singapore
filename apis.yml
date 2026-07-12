@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://www.onemap.gov.sg/docs/
 common:
+  - type: VulnerabilityDisclosure
+    url: security/one-map-singapore-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/one-map-singapore-domain-security.yml
   - type: Website
     url: https://www.onemap.gov.sg/docs/
   - type: PublicAPIsListing
