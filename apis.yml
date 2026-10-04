@@ -39,7 +39,6 @@ apis:
   - name: One Map, Singapore
     description: "Singapore Land Authority REST API services for Singapore addresses"
     humanURL: https://www.onemap.gov.sg/docs/
-    baseURL: https://www.onemap.gov.sg/docs/
     tags:
       - Geocoding
     properties:
